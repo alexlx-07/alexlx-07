@@ -1,44 +1,8 @@
 [
-  {
-    "name": "Project Management System",
-    "repo": "",
-    "url": "https://github.com/alexlx-07?tab=repositories",
-    "description": "Role-based MERN platform for users, teams, projects, modules, tasks and notifications",
-    "tags": ["React", "Node.js", "MongoDB"]
-  },
-  {
-    "name": "Code99 IT Academy",
-    "repo": "",
-    "url": "https://code99itacademy.com/",
-    "description": "Responsive educational website for software-development courses and training programs",
-    "tags": ["React", "JavaScript", "CSS"]
-  },
-  {
-    "name": "C99X",
-    "repo": "",
-    "url": "https://c99x.com/",
-    "description": "Business website for software development and digital-marketing services",
-    "tags": ["React", "JavaScript", "CSS"]
-  },
-  {
-    "name": "KPK Interiors",
-    "repo": "",
-    "url": "https://kpkinteriors.in/",
-    "description": "Responsive interior-design website showcasing services and completed work",
-    "tags": ["React", "JavaScript", "CSS"]
-  },
-  {
-    "name": "SM Veg Mart",
-    "repo": "",
-    "url": "https://smvegmart.com/",
-    "description": "Responsive marketplace frontend with reusable product components",
-    "tags": ["React", "JavaScript", "CSS"]
-  },
-  {
-    "name": "Developer Portfolio",
-    "repo": "",
-    "url": "YOUR_PORTFOLIO_URL",
-    "description": "Personal portfolio presenting skills, experience and selected development work",
-    "tags": ["React", "GSAP", "CSS"]
-  }
+  {"name":"Project Management System","repo":"","url":"https://github.com/alexlx-07?tab=repositories","description":"Role-based MERN platform for users, teams, projects, modules, tasks and notifications","tags":["React","Node.js","MongoDB"]},
+  {"name":"Developer Portfolio","repo":"alexlx-07/portfolio","url":"https://github.com/alexlx-07/portfolio","description":"Responsive developer portfolio with modern interaction and scroll-based animation","tags":["React","GSAP","CSS"]},
+  {"name":"Code99 IT Academy","repo":"","url":"https://code99itacademy.com/","description":"Educational website for software-development courses and professional training","tags":["React","JavaScript","CSS"]},
+  {"name":"C99X","repo":"","url":"https://c99x.com/","description":"Business website for software development and digital-marketing services","tags":["React","JavaScript","CSS"]},
+  {"name":"KPK Interiors","repo":"","url":"https://kpkinteriors.in/","description":"Responsive interior-design website showcasing services and completed projects","tags":["React","JavaScript","CSS"]},
+  {"name":"SM Veg Mart","repo":"","url":"https://smvegmart.com/","description":"Responsive marketplace frontend built with reusable product components","tags":["React","JavaScript","CSS"]}
 ]
